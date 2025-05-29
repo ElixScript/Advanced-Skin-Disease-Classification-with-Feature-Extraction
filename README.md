@@ -1,4 +1,4 @@
-# 🌟 **Advanced Skin Disease Classification with Image Processing and Feature Extraction** 🌟
+# **Advanced Skin Disease Classification with Image Processing and Feature Extraction** 
 
 This project focuses on classifying skin diseases using feature extraction techniques on images. The workflow involves data preprocessing, feature extraction, and model evaluation using machine learning algorithms such as SVM, KNN, and Decision Tree.
 
